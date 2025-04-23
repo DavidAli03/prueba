@@ -1,1 +1,2 @@
 Hola Davis, este es un archivo con conflicto
+David, el conflicto ya se soluciono
