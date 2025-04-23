@@ -1,3 +1,2 @@
 Hola Davis, este es un archivo con conflicto
-Este archivo ya se soluciono otra vez
-
+David, el conflicto ya se soluciono esta vez
